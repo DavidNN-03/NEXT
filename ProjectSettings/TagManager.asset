@@ -25,7 +25,11 @@ TagManager:
   - UI
   - Walls
   - Ground
+<<<<<<< Updated upstream
   - door
+=======
+  - Player
+>>>>>>> Stashed changes
   - 
   - 
   - 
