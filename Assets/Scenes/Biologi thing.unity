@@ -3391,7 +3391,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1217620054}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &248727465
 PrefabInstance:
@@ -17530,7 +17530,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1217620054}
   m_Layer: 0
-  m_Name: Enviroment
+  m_Name: Environment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17557,6 +17557,7 @@ Transform:
   - {fileID: 1266544817}
   - {fileID: 213103488}
   - {fileID: 1721214548}
+  - {fileID: 247558463}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1225108180
@@ -30573,5 +30574,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 1885902460}
   - {fileID: 516046983}
-  - {fileID: 247558463}
   - {fileID: 1217620054}
